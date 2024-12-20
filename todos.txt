@@ -1,10 +1,12 @@
 prepare
 shower
-play
-fix
+play the pianofix
 Write
 fix something to eat
 make soup.
 cook fish
-
 Master Python!
+Anything
+My newest todo is added
+My newest todo is added
+Add lastly
