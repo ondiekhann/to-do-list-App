@@ -6,3 +6,5 @@ Write
 fix something to eat
 make soup.
 cook fish
+
+Master Python!
